@@ -1,0 +1,19 @@
+{
+  "name": "posistagedmx",
+  "version": "1.0.0",
+  "description": "A lightweight application to convert VYV's PosiStageNet protocol into DMX for control of performers and scenery in pre-visualization software (via sACN).",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HFreni/PosiStageDMX.git"
+  },
+  "author": "Infinitus Lux, LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HFreni/PosiStageDMX/issues"
+  },
+  "homepage": "https://github.com/HFreni/PosiStageDMX#readme"
+}
